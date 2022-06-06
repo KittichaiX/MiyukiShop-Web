@@ -1,6 +1,6 @@
 <?php
 
-Class Database{
+private class Database{
  
 	private $server = "mysql:host=localhost";
 	private $username = "root";
